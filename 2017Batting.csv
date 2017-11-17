@@ -1,13 +1,4 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1504
-{\fonttbl\f0\fmodern\fcharset0 Courier;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;}
-{\*\expandedcolortbl;\csgray\c100000;\cssrgb\c0\c0\c0;\cssrgb\c100000\c100000\c100000;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\sl320\partightenfactor0
-
-\f0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Rk,Name,Age,Tm,Lg,G,PA,AB,R,H,2B,3B,HR,RBI,SB,CS,BB,SO,BA,OBP,SLG,OPS,OPS+,TB,GDP,HBP,SH,SF,IBB,Pos\'a0Summary\
+Rk,Name,Age,Tm,Lg,G,PA,AB,R,H,2B,3B,HR,RBI,SB,CS,BB,SO,BA,OBP,SLG,OPS,OPS+,TB,GDP,HBP,SH,SF,IBB,Pos
 1,Fernando\'a0Abad*\\abadfe01,31,BOS,AL,48,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,0,0,0,0,0,0,1\
 2,Jose\'a0Abreu\\abreujo02,30,CHW,AL,156,675,621,95,189,43,6,33,102,3,0,35,119,.304,.354,.552,.906,140,343,21,15,0,4,6,*3D\
 3,Cristhian\'a0Adames#\\adamecr01,25,COL,NL,12,14,13,1,0,0,0,0,0,0,0,1,6,.000,.071,.000,.071,-80,0,0,0,0,0,0,/346\
@@ -1367,4 +1358,3 @@
 1357,Mike\'a0Zunino\\zuninmi01,26,SEA,AL,124,435,387,52,97,25,0,25,64,1,0,39,160,.251,.331,.509,.840,123,197,8,8,0,1,0,*2/D\
 1358,Tony\'a0Zych\\zychto01,26,SEA,AL,45,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,0,0,0,0,0,0,1\
 1359,LgAvg per 600 PA,,,,235,600,536,73,136,27,3,20,70,8,3,51,130,.254,.324,.425,.749,,228,12,6,3,4,3,\
-}
